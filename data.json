@@ -1,0 +1,136 @@
+{
+"hikes": [
+    {
+        "title": "Phelps Lake Overlook",
+        "distance": "2.0 Miles",
+        "elevation": "416ft",
+        "difficulty": "Moderate",
+        "image": "https://live.staticflickr.com/452/19062762752_d1cec17c8e_b.jpg",
+        "duration": "1-2 Hours",
+        "file": "phelpsLakeOverlook.html",
+        "description":"Embark on a captivating journey through the heart of Grand Teton National Park with the Phelps Lake Overlook hike. This trail promises an immersive experience, weaving through a tapestry of diverse landscapes that showcase the park's pristine beauty. As you set forth, the trail meanders through lush meadows adorned with vibrant wildflowers, painting the landscape in a kaleidoscope of colors. The fragrance of pine trees mingles with the crisp mountain air, creating an invigorating atmosphere that envelops you from the very beginning.As you ascend, the trail unveils breathtaking panoramas of Phelps Lake below. The crystal-clear waters mirror the majestic peaks of the Teton Range, offering a reflective vista that captures the essence of this iconic national park. Take a moment to soak in the tranquility, interrupted only by the distant calls of native birds echoing through the air. Wildlife enthusiasts will find joy in the potential encounters with the park's inhabitants. Keep a keen eye out for elusive mule deer gracefully navigating the landscape, or catch a glimpse of a red-tailed hawk soaring overhead. The lucky few may even spot a moose or elk, adding an element of surprise to this already enchanting journey.",
+        "location":"43.65760524516181, -110.79882573862182"
+    },
+    {
+        "title": "Jenny Lake Loop",
+        "distance": "7.5 Miles",
+        "elevation": "275ft",
+        "difficulty": "Intermediate",
+        "image": "https://live.staticflickr.com/1141/1251094223_46e7b22d0f_b.jpg",
+        "duration": "3-5 Hours",
+        "file": "jennyLakeLoop.html",
+        "description":"Embark on an awe-inspiring adventure with the Jenny Lake Loop in Grand Teton National Park, a trail that encapsulates the park's diverse landscapes and natural wonders. The journey begins along the tranquil shores of Jenny Lake, where the pristine waters mirror the towering peaks of the Teton Range. The trail hugs the shoreline, offering breathtaking views that evolve with each step. As you stroll along the water's edge, the majestic mountains reflect in the crystal-clear lake, creating a mesmerizing tableau that captures the essence of the park's scenic grandeur. Wandering through verdant meadows and fragrant pine groves, the trail takes you deeper into the heart of the wilderness. The rhythmic crunch of gravel beneath your feet provides a soothing soundtrack to your journey, while the gentle murmur of nearby streams adds a refreshing touch to the overall sensory experience. The landscape shifts as you ascend, revealing panoramic vistas of Jenny Lake and the surrounding mountains. Gazing out over the vast expanse, you'll feel a profound connection to the untamed beauty that defines Grand Teton National Park. The play of light on the rugged terrain and the dance of shadows across the trail create a dynamic and ever-changing canvas. Wildlife enthusiasts will find ample opportunities for discovery along the Jenny Lake Loop. Keep a watchful eye for glimpses of wildlife, from the graceful movements of mule deer to the lazy scurrying of marmots. The park's diverse ecosystem may also gift you with encounters with larger inhabitants, such as black or grizzly bears, adding a touch of whimsy to your journey.",
+        "location":"43.75157152808946, -110.72545314685269"
+    },
+    {
+        "title": "Hidden Falls",
+        "distance": "1.1 Miles",
+        "elevation": "187ft",
+        "difficulty": "Novice",
+        "image": "https://live.staticflickr.com/65535/48915972552_dd264a14d3_b.jpg",
+        "duration": "30 mins",
+        "file": "hiddenFalls.html",
+        "description":"Embark on a captivating expedition along the Hidden Falls Trail in Grand Teton National Park, a pathway that unveils the park's hidden gems amidst a backdrop of breathtaking scenery. The journey begins near the shores of Jenny Lake, where the trail meanders through a lush forest of pine and fir trees. As you traverse the shaded path, the soothing sounds of rustling leaves and the occasional bird song create a serene ambiance, providing a gentle introduction to the natural wonders that lie ahead. The trail gently ascends, leading you deeper into the heart of the wilderness. Along the way, the lush foliage occasionally gives way to openings that reveal glimpses of the surrounding mountainous landscape. The anticipation builds as the rhythmic footsteps guide you toward the main attraction—the Hidden Falls. A crescendo of sound heralds your arrival as the trail unveils the majestic Hidden Falls, where a cascade of crystalline water tumbles down the rocky cliffs. The air is filled with the invigorating mist created by the falls, creating a refreshing atmosphere that rejuvenates both body and spirit. Take a moment to marvel at the sheer power and beauty of this hidden gem, surrounded by the pristine wilderness of Grand Teton National Park. Wildlife enthusiasts will appreciate the potential for encounters with the park's inhabitants. Keep an eye out for mama bears and their cubs, or even moose looking to get a fresh spring water drink. The Hidden Falls Trail offers a harmonious blend of natural beauty and the possibility of wildlife sightings, making each step a discovery.",
+        "location":"43.765631268670795, -110.75076923273615"
+    },
+    {
+        "title": "Cascade Canyon",
+        "distance": "10.0 Miles",
+        "elevation": "6738ft",
+        "difficulty": "Strenuous",
+        "image": "https://cdn2.picryl.com/photo/2010/01/01/north-fork-cascade-canyon-de9a3e-1024.jpg",
+        "duration": "4-6 Hours",
+        "file": "cascadeCanyon.html",
+        "description":"Embark on an enchanting journey along the Cascade Canyon Trail in Grand Teton National Park, a trail that immerses you in the heart of a dramatic mountain landscape, offering a symphony of sights and sounds that capture the essence of the wilderness. The trail commences at the base of Jenny Lake, where the clear waters mirror the towering peaks of the Teton Range. As you set foot on the path, you'll be surrounded by thickets of evergreen trees, their scent mingling with the crisp mountain air. The trail gently winds along the lakeshore, providing intermittent glimpses of the majestic scenery that awaits. Moving deeper into Cascade Canyon, the terrain transforms into a rugged and awe-inspiring spectacle. Towering granite walls rise on either side of the trail, creating a natural corridor that guides you further into the heart of the Teton wilderness. The sheer cliffs, carved by the forces of nature, create an imposing backdrop that emphasizes the grandeur of the surroundings. The trail follows the course of Cascade Creek, its melodic babble adding a soothing soundtrack to your journey. As you ascend, the canyon unveils panoramic vistas of rugged mountain peaks, their summits seemingly touching the sky. The ever-changing play of light on the rock faces creates a dynamic display of colors, enhancing the visual feast that surrounds you. Wildlife enthusiasts will find the Cascade Canyon Trail a haven for potential encounters with the park's inhabitants. Mule deer may graze in the meadows, while hawks and eagles soar above the canyon, adding a touch of wildlife drama to the scenic narrative. As you venture deeper into Cascade Canyon, you may catch sight of alpine meadows dotted with wildflowers, creating a vibrant contrast to the rocky landscape. The trail invites you to linger, allowing you to absorb the tranquility and appreciate the raw beauty that defines Grand Teton National Park.",
+        "location":"43.764344672449724, -110.7909771538148"
+    },
+    {
+        "title": "Lakeshore Trail",
+        "distance": "2.5 Miles",
+        "elevation": "85ft",
+        "difficulty": "Novice",
+        "image": "https://live.staticflickr.com/7398/27455716632_43fa06d020_b.jpg",
+        "duration": "1 Hour",
+        "file": "lakeshoreTrail.html",
+        "description":"Embark on a tranquil journey along the Lakeshore Trail at Colter Bay, nestled against the scenic backdrop of Jackson Lake in Grand Teton National Park. This trail promises a serene exploration of the lakeside, surrounded by the breathtaking vistas of the Teton Range. The trail begins at the water's edge, where the clear expanse of Jackson Lake stretches towards the majestic peaks. Towering conifers and quaking aspens frame the path, creating a picturesque setting that evolves with each step. The tranquil waters reflect the ever-changing moods of the sky, providing a captivating mirror to the grandeur overhead. As you follow the Lakeshore Trail, the panoramic views of the Teton Range unfold, creating a stunning visual tapestry. Rocky promontories and sandy beaches line the lake, inviting moments of contemplation and connection with the natural world. The trail winds through pockets of wildflowers, their vibrant hues adding a touch of color to the greenery that surrounds. Keep a watchful eye on the lakeside for signs of wildlife. Bald eagles may soar overhead, while waterfowl gracefully navigate the waters. The rustle of leaves and the occasional splash hint at the diverse ecosystem that thrives along the lake's edge, providing a sense of the untamed beauty that characterizes Grand Teton National Park. The Lakeshore Trail at Colter Bay is an invitation to savor the simplicity and tranquility of nature. Whether you choose to amble along the shoreline, pause to absorb the awe-inspiring mountain views, or simply revel in the peaceful sounds of the lake, this trail offers a serene and rejuvenating experience within the embrace of Grand Teton's natural splendor.",
+        "location":"43.90895389589937, -110.64674235495954"
+    },
+    {
+        "title": "Alaska Basin Lakes",
+        "distance": "16.6",
+        "elevation": "2635ft",
+        "difficulty": "Master",
+        "image": "https://cdn12.picryl.com/photo/2016/12/31/snow-mountains-lake-ice-nature-landscapes-de554d-1024.jpg",
+        "duration": "+8 Hours",
+        "file": "alaskaBasinLakes.html",
+        "description":"Embark on an exhilarating adventure along the Alaska Basin Lakes Trail, a hidden gem nestled in the Tetons but outside the boundaries of Grand Teton National Park. This trail promises a captivating journey through pristine alpine landscapes, offering a unique and secluded experience. The trail commences in a dense coniferous forest, where the scent of pine fills the air, creating an immersive atmosphere from the very beginning. As you ascend through the wooded terrain, occasional clearings reveal glimpses of the surrounding mountain peaks, providing a teaser of the panoramic views awaiting you. Entering the alpine realm, the trail unfolds to showcase a series of stunning alpine lakes cradled amidst rocky outcrops. These crystal-clear bodies of water mirror the rugged grandeur of the Tetons, creating a mesmerizing scene that epitomizes the untamed beauty of the region. The high-altitude environment invites you to pause and absorb the tranquility, surrounded by the pristine wilderness of the Tetons. Wildlife enthusiasts will find the Alaska Basin Lakes Trail to be a haven for alpine flora and fauna. Marmots may sunbathe on the rocky slopes, and elusive mountain goats might navigate the rugged terrain. Keep your eyes peeled for the vibrant colors of alpine wildflowers, which paint the landscape in hues that complement the surrounding rocky peaks. The trail meanders through alpine meadows adorned with delicate blooms, offering a stark contrast to the rocky expanses. As you traverse the high-altitude landscape, the ever-changing vistas unfold, revealing the diverse ecosystems that thrive in this elevated environment.",
+        "location":"43.69747999426247, -110.85224413029977"
+    },
+    {
+        "title": "Marion Lake Loop",
+        "distance": "5.1 Miles",
+        "elevation": "1200ft",
+        "difficulty": "Strenuous ",
+        "image": "https://i2.pickpik.com/photos/732/59/764/string-lake-reflection-mount-moran-landscape-preview.jpg",
+        "duration": "2-3 Hours",
+        "file": "marionLakeLoop.html",
+        "description":"Embark on a captivating journey along the Marion Lake Loop in the heart of Grand Teton National Park, where this trail weaves through diverse landscapes, promising a tapestry of natural wonders and breathtaking scenery. The adventure begins in a picturesque meadow, where wildflowers carpet the ground in vibrant hues. As you meander through this floral haven, the trail gradually leads you deeper into a dense forest of towering conifers. The air is filled with the refreshing scent of pine, creating an immersive atmosphere that signals the transition into the heart of the Teton wilderness. As you ascend, the forest gives way to intermittent clearings that unveil stunning vistas of the surrounding mountain peaks. The dramatic backdrop of the Tetons adds a majestic touch to the landscape, creating a visual feast that evolves with every step. The gentle rustle of leaves underfoot provides a serene soundtrack to your journey, enhancing the overall sensory experience. Marion Lake itself serves as a jewel in the crown of this trail. Nestled within a rocky basin, the pristine waters of Marion Lake mirror the grandeur of the surrounding peaks. Take a moment to absorb the tranquility, interrupted only by the occasional call of mountain birds echoing through the alpine environment. Wildlife enthusiasts will find ample opportunities for discovery along the Marion Lake Loop. From the elusive movements of small mammals to the soaring flights of birds of prey, the diverse ecosystems along the trail may unveil glimpses of the park's inhabitants. Keep a watchful eye on the rocky outcrops, where moose and elk may make an appearance, adding a touch of wildlife drama to the alpine landscape.",
+        "location":"43.62306003413516, -110.92889918917874"
+    },
+    {
+        "title": "Moose Ponds",
+        "distance": "2.7 Miles",
+        "elevation": "195ft",
+        "difficulty": "Novice",
+        "image": "https://live.staticflickr.com/6012/5928123836_74a6607f21_b.jpg",
+        "duration": "1 Hour",
+        "file": "moosePonds.html",
+        "description":"Embark on a tranquil exploration through the enchanting landscape of Moose Ponds in Grand Teton National Park, where this trail promises an immersive experience surrounded by serene waters, lush vegetation, and the iconic peaks of the Teton Range. The journey begins in a verdant meadow, where the path meanders through tall grasses and wildflowers. The vibrant colors under the open sky create a picturesque setting, and the distant silhouette of the Tetons serves as a constant reminder of the majestic surroundings. As you tread softly, the trail unfolds, guiding you towards the hidden gem of Moose Ponds. The trail leads you through dense stands of willows and conifers, offering occasional openings that reveal the shimmering ponds nestled against the backdrop of rugged mountains. Moose Ponds, with their reflective surfaces, create a tranquil oasis in the heart of the wilderness, inviting moments of quiet contemplation. Surrounded by the symphony of nature, the gentle murmur of water and the whispering wind through the trees accompany your journey. The reflective stillness of the ponds mirrors the grandeur of the Tetons, creating a captivating scene that immerses you in the timeless beauty of the park. Wildlife enthusiasts will find the Moose Ponds trail to be a haven for potential encounters with the park's inhabitants. Keep a watchful eye for the elusive moose that may frequent the waters, blending seamlessly into the landscape. Birdsongs may add a melodic note to the air, enhancing the overall serenity of the experience.",
+        "location":"43.75033522877881, -110.74246001986276"
+    },
+    {
+        "title": "Static Peak Divide",
+        "distance": "16.2 Miles",
+        "elevation": "5000ft",
+        "difficulty": "Master",
+        "image": "https://live.staticflickr.com/4358/36973819900_293cf3b246_b.jpg",
+        "duration": "+10 Hours",
+        "file": "staticPeakDivide.html",
+        "description":"Embark on an exhilarating adventure through the captivating terrain of Static Peaks Divide in Grand Teton National Park, a trail that promises sweeping vistas, alpine grandeur, and a profound sense of connection to the rugged wilderness. The journey begins in a subalpine meadow, where the trail leads you through a mosaic of wildflowers and low shrubs. As you ascend, the landscape transitions to dense stands of conifers, their aromatic scent filling the crisp mountain air. The rhythmic crunch of gravel beneath your feet and the occasional whisper of wind through the trees set the tone for the upcoming exploration. Emerging from the forested sections, the trail opens up to reveal panoramic views of the Teton Range. The towering peaks stand as sentinels against the sky, their rugged profiles creating a dramatic backdrop to the alpine landscape. As you navigate the ridgeline, the vistas unfold in every direction, providing an unobstructed glimpse of the untamed beauty that defines Grand Teton National Park. The alpine tundra, adorned with hardy wildflowers and low-lying vegetation, adds a burst of color to the rocky landscape. The rocky outcrops and talus fields contribute to the rugged charm of the divide, creating an immersive setting that reflects the raw, unspoiled nature of the Tetons. Wildlife enthusiasts will appreciate the potential for encounters with mountain-dwelling species. Marmots may sunbathe on the rocks, and nimble-footed pika might scurry among the boulders, adding a touch of life to the high-altitude environment. Birds of prey may soar overhead, riding the thermals created by the surrounding peaks.",
+        "location":"43.6877946448531, -110.82966445030056"
+    },
+    {
+        "title": "Taggert-Bradley Lake Loop",
+        "distance": "5.5 Miles",
+        "elevation": "585ft",
+        "difficulty": "Moderate",
+        "image": "https://live.staticflickr.com/65535/53233159394_efceb539f5_b.jpg",
+        "duration": "2-3 Hours",
+        "file": "taggertBradleyLakeLoop.html",
+        "description":"Embark on a picturesque journey through the Taggart Bradley Lake Loop in Grand Teton National Park, where this trail promises a harmonious blend of alpine beauty, serene lakeshores, and stunning mountain views. The adventure begins amidst the coniferous embrace of the Taggart Lake Trailhead. Tall pine trees create a canopy overhead as the trail gently winds through the forest, offering a sense of tranquility. As you progress, the sounds of rustling leaves and birdsong provide a natural symphony that accompanies your journey. The trail descends towards the pristine shores of Taggart Lake, where the crystal-clear waters mirror the towering peaks. The reflections create a mesmerizing tableau that showcases the sheer beauty of the Tetons. The lake's shoreline, framed by wildflowers and patches of greenery, invites moments of quiet contemplation. Continuing along the loop, the path leads to Bradley Lake, another gem nestled within the alpine landscape. The quietude of Bradley Lake offers a serene contrast to the more expansive Taggart Lake, creating a diverse lakeside experience. The reflections of the surrounding mountains dance upon the tranquil surface, adding to the visual allure. Wildlife enthusiasts may find delight in the potential encounters with local fauna. Keep an eye out for birds flitting among the trees or the occasional rustle in the underbrush, signaling the presence of small mammals. The loop's diverse ecosystems offer glimpses of the park's inhabitants in their natural habitat.",
+        "location":"43.69358733793245, -110.73299958646702"
+    },
+    {
+        "title": "Schwabacher Landing Trail",
+        "distance": "1.3 Miles",
+        "elevation": "10ft",
+        "difficulty": "Novice",
+        "image": "https://live.staticflickr.com/4315/36115576525_86a6f2bccc_b.jpg",
+        "duration": "30 Mins",
+        "file": "schwabacherLandingTrail.html",
+        "description":"Embark on a captivating journey along the Schwabacher Landing Trail in Grand Teton National Park, where this trail unveils a tapestry of natural wonders, from tranquil waters and lush meadows to the iconic reflections of the Teton Range. The adventure begins as the trail meanders through a serene riverside corridor, flanked by verdant foliage and the soothing sounds of flowing water. Tall grasses sway gently in the breeze, creating a peaceful atmosphere that sets the tone for the exploration ahead. The trail's proximity to the Snake River adds a melodic touch to your journey, providing a refreshing backdrop to the scenic surroundings. As you continue, the trail opens up to reveal the expansive Schwabacher Landing area, where the Snake River widens and calm waters reflect the majestic peaks of the Teton Range. The iconic reflections create a stunning visual symmetry, showcasing the grandeur of the Tetons mirrored in the pristine river below. This breathtaking scene invites moments of contemplation and appreciation for the timeless beauty of the park. Wildlife enthusiasts will find Schwabacher Landing to be a haven for potential encounters with the local fauna. Keep a watchful eye for waterfowl along the riverbanks, and perhaps catch sight of beavers busy at work. The riverside environment attracts a variety of birdlife, from the graceful herons to the occasional bald eagle, adding a dynamic element to the tranquil setting.",
+        "location":"43.71317080440761, -110.6714730026668"
+    },
+    {
+        "title": "Woodland and Lake Creek Trail",
+        "distance": "3.4 Miles",
+        "elevation": "260ft",
+        "difficulty": "Novice",
+        "image": "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvd3l2bDA2NTEuanBn.jpg",
+        "duration": "1-2 Hours",
+        "file": "woodlandLakeCreekTrail.html",
+        "description":"Embark on a serene exploration through the Woodland and Lake Creek Trail in Grand Teton National Park, where the intertwining pathways lead you through diverse ecosystems, from peaceful woodlands to the refreshing embrace of Lake Creek. The journey begins beneath the towering canopy of coniferous trees, where the Woodland Trail meanders through a lush forest. The air is imbued with the earthy scent of pine, and the soft carpet of fallen needles beneath your feet enhances the immersive experience. Sunlight filters through the dense foliage, creating a tranquil play of light and shadow along the trail. The Woodland Trail seamlessly merges into the Lake Creek Trail, guiding you along the creek's scenic course. Towering cottonwoods and willows line the water's edge, creating picturesque scenes of riparian beauty. The gentle murmur of Lake Creek accompanies your journey, providing a refreshing ambiance as you explore the serene surroundings. The trail opens up to reveal peaceful meadows dotted with wildflowers, adding vibrant splashes of color to the landscape. Keep a watchful eye for signs of wildlife, as the diverse ecosystems along the trail may offer glimpses of deer grazing in the meadows or birds flitting through the branches. Arriving at the shores of Lake Creek, the trail offers tranquil views of the meandering waterway and the surrounding mountain vistas. The clear waters reflect the beauty of the Tetons, creating a serene tableau that invites moments of quiet reflection.",
+        "location":"43.62715798500877, -110.77767589037025"
+    }
+] 
+}
